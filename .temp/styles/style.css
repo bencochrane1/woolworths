@@ -1,0 +1,25 @@
+/* Empty. Add your own CSS if you like */
+/* Colour palette */
+/* Search input styles */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/bencochrane\/projects\/woolworths\/app\/styles\/style\.scss}line{font-family:\0000319}}
+.wow-search-header {
+  height: 100%;
+  background-color: #22C064;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/bencochrane\/projects\/woolworths\/app\/styles\/style\.scss}line{font-family:\0000323}}
+.wow-search-header button.button.button-clear {
+  color: #15763D;
+  font-weight: bold;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/bencochrane\/projects\/woolworths\/app\/styles\/style\.scss}line{font-family:\0000328}}
+.wow-search-header label.item-input-wrapper {
+  background-color: #15763D;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/bencochrane\/projects\/woolworths\/app\/styles\/style\.scss}line{font-family:\0000331}}
+.wow-search-header label.item-input-wrapper * {
+  color: #22C064;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/bencochrane\/projects\/woolworths\/app\/styles\/style\.scss}line{font-family:\0000335}}
+.wow-search-header label.item-input-wrapper input::-webkit-input-placeholder {
+  color: #22C064;
+}

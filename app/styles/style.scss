@@ -1,0 +1,40 @@
+/* Empty. Add your own CSS if you like */
+
+/* Colour palette */
+$green: #22C064;
+$darkgreen: #15763D;
+
+$lightgrey: #DDD;
+$fillergrey: #F1F1F1;
+$midgrey: #B2B2B2;
+$darkgrey: #888;
+
+$blue: #3699FF;
+$orange: #FF7E00;
+$red: #E10700;
+
+
+/* Search input styles */
+.wow-search {
+  &-header {
+    height: 100%;
+    background-color: $green;
+
+    & button.button.button-clear {
+      color: $darkgreen;
+      font-weight: bold;
+    }
+
+    & label.item-input-wrapper {
+      background-color: $darkgreen;
+
+      & * {
+        color: $green;
+      }
+
+      & input::-webkit-input-placeholder {
+        color: $green;
+      }
+    }
+  }
+}
