@@ -23,3 +23,17 @@
 .wow-search-header label.item-input-wrapper input::-webkit-input-placeholder {
   color: #22C064;
 }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/bencochrane\/projects\/woolworths\/app\/styles\/style\.scss}line{font-family:\0000342}}
+ion-tabs .tabs.tab-nav {
+  background-color: white;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/bencochrane\/projects\/woolworths\/app\/styles\/style\.scss}line{font-family:\0000348}}
+.tab-item.tab-item-active i.icon::before {
+  color: #22C064;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/bencochrane\/projects\/woolworths\/app\/styles\/style\.scss}line{font-family:\0000352}}
+.tab-item.tab-item-active span.tab-title {
+  color: #22C064;
+}

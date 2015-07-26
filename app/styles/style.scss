@@ -38,3 +38,19 @@ $red: #E10700;
     }
   }
 }
+
+ion-tabs .tabs.tab-nav {
+  background-color: white;
+}
+
+.tab-item.tab-item-active {
+
+  i.icon::before {
+    color: $green;
+  }
+
+  span.tab-title {
+    color: $green;
+  }
+
+}
